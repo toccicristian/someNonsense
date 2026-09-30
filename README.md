@@ -14,7 +14,7 @@ Tambien exportar una copia de seguridad de la base de datos de MyBrain).
 
 ### en la computadora:
 
-(en el directorio al que enviaste las copias)
+(en el directorio al que enviaste las copias, y reemplazar xxxxxxxxxxxxx en la linea de abajo con el numero de tu archivo)
 
 ```
 python3 someNonsense.py MyBrain_Backup_xxxxxxxxxxxxx.json NoNonsenseNotes_Backup.json nuevoArchivo.json
@@ -24,6 +24,7 @@ luego enviar el nuevoArchivo.json al celular.
 
 ### en el celular, nuevamente:
 
- - crear un directorio en el cual mover este archivo solo y renombrarlo a NoNonsenseNotes_Backup.json
+ - crear un directorio en el cual mover este archivo solo y renombrar el archivo a NoNonsenseNotes_Backup.json
  - en NoNonsense tocar en el menu hamburguesa>ajustes>copia de seguridad>Elige una carpeta(...)
- - seleccionar el directorio que creamos
+ - seleccionar el directorio que creamos.
+ - posiblemente tocar en "importar copia de seguridad"
