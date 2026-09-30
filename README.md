@@ -16,7 +16,9 @@ Tambien exportar una copia de seguridad de la base de datos de MyBrain).
 
 (en el directorio al que enviaste las copias)
 
+```
 python3 someNonsense.py MyBrain_Backup_xxxxxxxxxxxxx.json NoNonsenseNotes_Backup.json nuevoArchivo.json
+```
 
 luego enviar el nuevoArchivo.json al celular. 
 
