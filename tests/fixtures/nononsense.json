@@ -1,0 +1,460 @@
+{
+  "lists": [
+    {
+      "_id": 6,
+      "updated": 1782336761827,
+      "title": "apuntes",
+      "remotes": [],
+      "tasks": [
+        {
+          "_id": 37,
+          "completed": 1755284036943,
+          "dblist": 6,
+          "locked": 0,
+          "updated": 1755284036943,
+          "note": "Abre esto para empezar.\n\n\nEsta aplicación tiene un tutorial detallado. Puede encontrarlo en https:\/\/github.com\/spacecowboy\/NotePad\/blob\/master\/documents\/TUTORIAL.md",
+          "title": "¡Bienvenid@s!",
+          "lft": 9,
+          "rgt": 10,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 125,
+          "dblist": 6,
+          "locked": 0,
+          "updated": 1773692271366,
+          "note": "\ninstitutos de clases de apoyo",
+          "title": "tusclases.com.ar",
+          "lft": 7,
+          "rgt": 8,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 170,
+          "dblist": 6,
+          "locked": 0,
+          "updated": 1779063318380,
+          "note": "",
+          "title": "192.168.0.197",
+          "lft": 5,
+          "rgt": 6,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 171,
+          "dblist": 6,
+          "locked": 0,
+          "updated": 1779065545067,
+          "note": "",
+          "title": "192.168.0.142 (g50)",
+          "lft": 3,
+          "rgt": 4,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 177,
+          "dblist": 6,
+          "locked": 0,
+          "updated": 1779931666501,
+          "note": "modelo tele philips",
+          "title": "40pfg5000\/77",
+          "lft": 1,
+          "rgt": 2,
+          "remotes": [],
+          "reminders": []
+        }
+      ]
+    },
+    {
+      "_id": 7,
+      "updated": 1755363002456,
+      "title": "comprar",
+      "remotes": [],
+      "tasks": [
+        {
+          "_id": 116,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1771356869547,
+          "note": "",
+          "title": "aspiradora automata",
+          "lft": 31,
+          "rgt": 32,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 54,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1761090444639,
+          "note": "",
+          "title": "placa wifi usb copada",
+          "lft": 29,
+          "rgt": 30,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 181,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1780085564192,
+          "note": "",
+          "title": "disco ssd 500gb\/1tb",
+          "lft": 27,
+          "rgt": 28,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 89,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1764885385789,
+          "note": "",
+          "title": "sodimm 4gb ddr3 p\/g460",
+          "lft": 25,
+          "rgt": 26,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 88,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1764885318228,
+          "note": "",
+          "title": "bateria p\/g460",
+          "lft": 23,
+          "rgt": 24,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 145,
+          "completed": 1776178182506,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1776178182506,
+          "note": "",
+          "title": "silla",
+          "lft": 21,
+          "rgt": 22,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 91,
+          "completed": 1767469955606,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1767469955606,
+          "note": "",
+          "title": "pad xb1",
+          "lft": 19,
+          "rgt": 20,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 106,
+          "completed": 1778273426424,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1778273426424,
+          "note": "",
+          "title": "2 pilas recargables AA",
+          "lft": 17,
+          "rgt": 18,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 148,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1779487960226,
+          "note": "",
+          "title": "tornillo puerta",
+          "lft": 15,
+          "rgt": 16,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 153,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1778357410036,
+          "note": "",
+          "title": "recarga de gas",
+          "lft": 13,
+          "rgt": 14,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 182,
+          "completed": 1788820696774,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1788820696774,
+          "note": "",
+          "title": "coca",
+          "lft": 11,
+          "rgt": 12,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 183,
+          "completed": 1789083269996,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1789083269996,
+          "note": "",
+          "title": "2 zanahorias chicas",
+          "lft": 9,
+          "rgt": 10,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 194,
+          "completed": 1789686062476,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1789686062476,
+          "note": "",
+          "title": "patrich",
+          "lft": 7,
+          "rgt": 8,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 195,
+          "completed": 1789686062036,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1789686062036,
+          "note": "",
+          "title": "leche deslactosada",
+          "lft": 5,
+          "rgt": 6,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 196,
+          "completed": 1789686061382,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1789686061382,
+          "note": "",
+          "title": "quesito untable",
+          "lft": 3,
+          "rgt": 4,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 193,
+          "dblist": 7,
+          "locked": 0,
+          "updated": 1789668047623,
+          "note": "",
+          "title": "cepillo pared",
+          "lft": 1,
+          "rgt": 2,
+          "remotes": [],
+          "reminders": []
+        }
+      ]
+    },
+    {
+      "_id": 5,
+      "updated": 1755224122879,
+      "title": "hacer",
+      "remotes": [],
+      "tasks": []
+    },
+    {
+      "_id": 9,
+      "updated": 1789115176906,
+      "title": "llevar de ale",
+      "remotes": [],
+      "tasks": [
+        {
+          "_id": 184,
+          "dblist": 9,
+          "locked": 0,
+          "updated": 1789115210515,
+          "note": "",
+          "title": "laptop+cargador+zapa",
+          "lft": 9,
+          "rgt": 10,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 185,
+          "dblist": 9,
+          "locked": 0,
+          "updated": 1789115214797,
+          "note": "",
+          "title": "pen",
+          "lft": 7,
+          "rgt": 8,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 186,
+          "dblist": 9,
+          "locked": 0,
+          "updated": 1789115232677,
+          "note": "",
+          "title": "destos",
+          "lft": 5,
+          "rgt": 6,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 187,
+          "dblist": 9,
+          "locked": 0,
+          "updated": 1789115237142,
+          "note": "",
+          "title": "cepillo",
+          "lft": 3,
+          "rgt": 4,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 188,
+          "dblist": 9,
+          "locked": 0,
+          "updated": 1789115262150,
+          "note": "",
+          "title": "pincita larga",
+          "lft": 1,
+          "rgt": 2,
+          "remotes": [],
+          "reminders": []
+        }
+      ]
+    },
+    {
+      "_id": 8,
+      "updated": 1755570703524,
+      "title": "notas",
+      "remotes": [],
+      "tasks": [
+        {
+          "_id": 43,
+          "dblist": 8,
+          "locked": 0,
+          "updated": 1760614875598,
+          "note": "",
+          "title": "ansible",
+          "lft": 15,
+          "rgt": 16,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 45,
+          "dblist": 8,
+          "locked": 0,
+          "updated": 1782336921180,
+          "note": "\n flisol 2025 - osiux\n  no me acuerdo de nada… dejame en pass!\n\nhttps:\/\/www.osiux.com\/2021-02-19-no-me-acuerdo-de-nada-dejame-en-pass.html\n\n  flisol 2026 - osiux\n\neget owner\/project\nshellcheck",
+          "title": "charlas FLISoL",
+          "lft": 13,
+          "rgt": 14,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 59,
+          "dblist": 8,
+          "locked": 0,
+          "updated": 1761532267687,
+          "note": "",
+          "title": "ofi 0.117",
+          "lft": 11,
+          "rgt": 12,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 66,
+          "dblist": 8,
+          "locked": 0,
+          "updated": 1761835894707,
+          "note": "",
+          "title": "cpm",
+          "lft": 9,
+          "rgt": 10,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 98,
+          "dblist": 8,
+          "locked": 0,
+          "updated": 1765403928092,
+          "note": "\n313181931 (facturacion envio)\n313181982 (suc)\n",
+          "title": "telecentro",
+          "lft": 7,
+          "rgt": 8,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 99,
+          "dblist": 8,
+          "locked": 0,
+          "updated": 1769324809076,
+          "note": "facturar dc (hecho)\n presu tax [ ]\n",
+          "title": "ale hacer",
+          "lft": 5,
+          "rgt": 6,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 105,
+          "dblist": 8,
+          "locked": 0,
+          "updated": 1773811549175,
+          "note": "\nkino dontas - lantimos\nthe cult of the bound variable\nthe secret life of machines - Hunkin\nbrinch hansen 1973 os\ngrooks - piet hein\n",
+          "title": "ver despues",
+          "lft": 3,
+          "rgt": 4,
+          "remotes": [],
+          "reminders": []
+        },
+        {
+          "_id": 111,
+          "dblist": 8,
+          "locked": 0,
+          "updated": 1767824678860,
+          "note": "20260107:\n  sale (50) AB61070516B B2\n  sale (50) AG29676381C C7\n    entra (100) MB37777436Q B2\n",
+          "title": "intercambio",
+          "lft": 1,
+          "rgt": 2,
+          "remotes": [],
+          "reminders": []
+        }
+      ]
+    }
+  ]
+}
