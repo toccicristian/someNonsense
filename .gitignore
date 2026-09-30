@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+tests/
+build.sh
+
+build/
+dist/
+*.spec
+
+*.swp
+*~
